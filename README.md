@@ -1,5 +1,5 @@
-I am Sam Vader  
-student at Trinity University 🎓  
+I am Sam Vader.  
+Student at Trinity University 🎓  
 and Software Intern at DefectDojo ❤️
 
 <!--
